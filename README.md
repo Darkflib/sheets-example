@@ -23,6 +23,9 @@ python3 -m venv .venv
 # enable the venv
 source .venv/bin/activate
 
+# install the pip modules
+pip install -r requirements.txt
+
 # run the actual awesome script
 python main.py
 ```
