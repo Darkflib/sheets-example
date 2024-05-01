@@ -2,7 +2,7 @@
 
 So you've checked out my awesome repo... 
 
-Goto the developer console and create a new oauth desktop app or a service account. 
+Goto the [developer console](https://developers.google.com/) and create a new oauth desktop app or a service account. 
 Download the credentials - it is likely something like: `client_secret_627497838995-aab7flspv10ttd946259kmc614v2brem.apps.googleusercontent.com.json`.
 Rename it as credentials.json (or adjust the code)
 
