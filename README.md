@@ -6,6 +6,14 @@ Goto the [developer console](https://console.cloud.google.com/) and create a new
 Download the credentials - it is likely something like: `client_secret_627497838995-aab7flspv10ttd946259kmc614v2brem.apps.googleusercontent.com.json`.
 Rename it as credentials.json (or adjust the code)
 
+```
+# Clone it (adjust if you download the zip or checkout with https)
+git clone git@github.com:Darkflib/sheets-example.git
+
+# change to the directory
+cd sheets-example
+```
+
 Run it:
 
 ```
